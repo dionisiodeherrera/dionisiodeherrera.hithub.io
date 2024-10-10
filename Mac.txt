@@ -1,0 +1,68 @@
+﻿<HTML>
+<HEAD>
+<TITLE>Ejercicio 2  - MAC</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="fondo mac.PNG" TEXT="#000000">
+<LEFT><H1>MAC</H1></LEFT>
+<H3><A NAME="indice">Indice</A></H3>
+<UL>
+<LI><A HREF="#uno">Mac 10.14</A>
+<LI><A HREF="#dos">Mac 10.15</A>
+<LI><A HREF="#tres">Mac 11</A>
+<LI><A HREF="#tres">Mac 12</A>
+</UL>
+<H2><A NAME="uno">Mac 10.14</A></H2><P> <FONT COLOR=¨green¨><I>¨Mac 10.14 </I></FONT>
+Mojave es la decimoquinta versión de macOS, el sistema operativo de Apple para sus ordenadores de escritorio, portátiles y servidores Macintosh. Es la tercera versión del sistema operativo tras el cambio de denominación de OS X a macOS. </P>
+<P>Fue anunciada el 4 de junio de 2018 durante la WWDC de ese año como sucesor de macOS High Sierra junto a las nuevas versiones de los otros tres sistemas operativos de los dispositivos de Apple: iOS 12 para iPhone y iPad, watchOS 5 para Apple Watch y tvOS 12 para Apple TV.</P>
+<P>
+Fecha De Lanzamiento: 24 de septiembre de 2018
+Desarrollador: Apple Inc.
+Interfaz gráfica predeterminada: Aqua
+Licencia: APSL, Apple EULA y Acuerdo de confidencialidad
+macOS High Sierra: macOS Mojave
+Método de actualización: Actualización de software
+Tipo de núcleo: Núcleo híbrido (XNU) </P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+
+<H2><A NAME="dos">Windows Mac 10.15</A></H2>
+<P> <FONT COLOR=¨blue¨><I>¨Mac 110.15 </I></FONT> 
+Catalina es la decimosexta versión principal de macOS, el sistema operativo de escritorio de Apple para computadoras Macintosh. Es el sucesor de macOS Mojave, se anunció en la WWDC 2019 el 3 de junio de 2019 y se lanzó al público el 7 de octubre de 2019. 
+</p>
+<P> Fecha del lanzamiento inicial: 7 de octubre de 2019
+Licencia: APSL y Apple EULA
+macOS Mojave: macOS Catalina
+Método de actualización: Actualización de software
+Modelo de desarrollo: Software propietario de código cerrado con algunos componentes de código abierto
+Plataformas admitidas: x64
+Tipo de núcleo: Híbrido (XNU)</P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+
+<H2><A NAME="tres">Mac 11</A></H2>
+<P> <FONT COLOR=¨red¨><B>Mac 11 </B></FONT>  Big Sur es la decimoséptima versión importante de macOS, el sistema operativo de escritorio de Apple para computadoras Macintosh. El sucesor de macOS Catalina, Big Sur fue anunciado en la Conferencia Mundial de Desarrolladores 2020 el 22 de junio de 2020​​ y se lanzó al público el 12 de noviembre de 2020.
+<P>
+Fecha del lanzamiento inicial: 12 de noviembre de 2020
+Versión más reciente: 11.7.10 (11 de septiembre de 2023)
+Licencia: APSL y Apple EULA
+macOS Catalina: macOS Big Sur
+Método de actualización: Actualización de software
+Modelo de desarrollo: Software propietario de código cerrado con componentes de código abierto
+Tipo de núcleo: Híbrido (XNU)    </P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+
+
+<H2><A NAME="cuatro">Mac 12</A></H2>
+<P> <FONT COLOR=¨blue¨><I>Mac 12</I></FONT>,  Monterey es la decimoctava versión principal de macOS, el sistema operativo de escritorio de Apple para computadoras Mac. El sucesor de macOS Big Sur fue anunciado en la WWDC 2021 el 7 de junio de 2021 y se publicó en el cuarto trimestre del año.​​​
+<P>
+Interfaz gráfica predeterminada: Cocoa Touch (multitáctil, GUI)
+Lanzamiento inicial: 25 de octubre de 2021
+Licencia: Software propietario con componentes de código abierto y contenido con licencia de APSL
+macOS Big Sur: macOS Monterey
+Método de actualización: Actualización de software
+Plataformas admitidas: x86-64, ARM64
+Tipo de núcleo: Híbrido (XNU)   </P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+<P><A HREF="sistemas operativos.html#Indice"> Regresar  a la pagina de Sistemas Operativos</A>
+
+</BODY>
+</HTML>

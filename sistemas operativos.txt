@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE>Ejemplo 6 - Imagenes </TITLE>
+</HEAD>
+<BODY BACKGROUND="fondo.jpg" TEXT="#FFFFFF">
+<CENTER>
+<H1>SISTEMAS OPERATIVOS</H1>
+<H2>WINDOWS</H2>
+<P><A HREF="Windows.html"><IMG SRC="windows.PNG" width="250" height="250"></A> 
+<H2>LINUX</H2>
+<P><A HREF="Linux.html"><IMG SRC="linux.PNG" width="250" height="250"></A> 
+<H2>MAC</H2>
+<P><A HREF="Mac.html"> <IMG SRC="mac.PNG" width="250" height="250"></A>
+</CENTER>
+</BODY>
+</HTML>

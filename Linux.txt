@@ -1,0 +1,90 @@
+﻿<HTML>
+<HEAD>
+<TITLE>Ejercicio 3  - LINUX</TITLE>
+</HEAD>
+<BODY BACKGROUND="fondo linux.PNG" TEXT="#FFFFFF">
+
+<CENTER><H1>LINUX</H1></CENTER>
+<H2><A NAME="indice">Indice</A></H2>
+<UL>
+<LI><A HREF="#uno">DEBIAN</A>
+<LI><A HREF="#dos">FEDORA</A>
+<LI><A HREF="#tres">MANJARO</A>
+<LI><A HREF="#cuatro">GENTOO</A>
+<LI><A HREF="#cinco">SOLUS</A
+</UL>
+<H3><A NAME="uno">DEBIAN</A></H3><P>
+<P>
+Debian GNU/Linux es un sistema operativo libre,
+<P> desarrollado por miles de voluntarios de todo el mundo,
+<P>que colaboran a través de Internet.
+Fecha De Lanzamiento: 16 de agosto de 1993
+<P>Desarrollador: Proyecto Debian​
+<P>Estado actual: En desarrollo
+<P>Interfaz gráfica predeterminada: Más de 35 entornos de escritorio y gestores de ventanas
+<P>Licencia: GPL con programas y componentes LGPL, BSD, MIT entre otros
+<P>Núcleo: Linux, kFreeBSD, Hurd
+<P>Tipo de programa: sistemas operativos libres
+</P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+
+<H3><A NAME="dos">FEDORA</A></H3>
+<P> Fedora es una distribución GNU/Linux para propósitos generales. 
+<P>Es mantenida por una comunidad internacional de ingenieros, diseñadores y usuarios.
+<P> Se caracteriza por su estabilidad, pero también por estar a la vanguardia en la adopción de 
+<P>software libre y de código abierto.
+<P>Fecha De Lanzamiento: 6 de noviembre de 2003
+<P>Desarrollador: Proyecto Fedora; (patrocinado por Red Hat)
+<P>Estado actual: En desarrollo, con mantenimiento activo de versiones anteriores
+<P>Idiomas: Multilingüe
+<P>Interfaz gráfica predeterminada: GNOME, además de otros entornos de escritorio en los Fedora Spins
+<P>Licencia: GNU GPL y otras
+<P>Red Hat Linux: Fedora
+</P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+
+<H3><A NAME="tres">MANJARO</A></H3>
+<P> Manjaro Linux, o Manjaro, es una distribución GNU/Linux, con Xfce, 
+<P>KDE o GNOME Shell como interfaz de usuario por defecto. 
+<P>Se trata básicamente de un sistema operativo libre para 
+<P>computadores personales y enfocado en la facilidad de uso.
+<P>Fecha del lanzamiento inicial: 10 de julio de 2011
+<P>Desarrollador: Manjaro GmbH & Co. KG
+<P>Estado actual: Estable
+<P>Idiomas: Multilingüe
+<P>Interfaz gráfica predeterminada: Oficiales: Xfce, KDE, GNOME Shell. 
+<P>Soportadas comunidad: Openbox, Cinnamon, MATE, LXQt, i3, LXDE, Budgie
+<P>Licencia: GPL, y otras licencias libres
+<P>Método de actualización: Rolling release   
+</P>Click aqui para <A href="#indice">volver al índice</A>
+
+
+<H3><A NAME="cuatro">GENTOO</A></H3>
+<P> Gentoo Linux es una distribución GNU/Linux basada en paquetes 
+<P>fuente orientada a usuarios avanzados con experiencia en sistemas operativos. 
+<P>Fue fundada por Daniel Robbins, basada en la inactiva distribución llamada Enoch Linux en diciembre de 1999.
+<P>Fecha De Lanzamiento: 26 de julio de 2000
+<P>Lenguajes de programación: Python, C
+<P>Autor: Daniel Robbins
+<P>Desarrollador: Gentoo Project
+<P>Estado actual: En desarrollo
+<P>Licencia: GPL y otras
+<P>Método de actualización: Liberación continua</P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+
+<H3><A NAME="cinco">SOLUS</A></H3>
+<P>Solus, anteriormente llamada "Evolve OS", es una distribución GNU/Linux 
+<P>independiente creada y desarrollada por Ikey Doherty. Es un sistema operativo 
+<P>libre para computadores personales y enfocado en la facilidad de uso.
+<P>Fecha del lanzamiento inicial: 27 de diciembre de 2015
+<P>Estado actual: Estable
+<P>Interfaz gráfica predeterminada: Budgie, MATE, GNOME Shell
+<P>Licencia: GPL, y otras licencias libres
+<P>Método de actualización: eopkg
+<P>Modelo de desarrollo: Software libre y de código abierto
+<P>Tipo de núcleo: Monolítico  </P>
+<P>Click aqui para <A href="#indice">volver al índice</A>
+<P><A HREF="sistemas operativos.html#Indice"> Regresar  a la pagina de Sistemas Operativos</A>
+
+</BODY>
+</HTML>
